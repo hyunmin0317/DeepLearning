@@ -6,4 +6,4 @@
 
 * ### [실습 Zero](https://github.com/hyunmin0317/DeepLearning/blob/master/%EC%8B%A4%EC%8A%B5Zero/%EC%8B%A4%EC%8A%B5Zero.md)
 
-* ### [실습]
+* ### [실습](https://github.com/hyunmin0317/DeepLearning/blob/master/%5B%EC%8B%A4%EC%8A%B5%5D/%5B%EC%8B%A4%EC%8A%B5%5D.md)
