@@ -14,6 +14,8 @@
 
 * ### [[실습05] 합성곱 신경망](https://github.com/hyunmin0317/DeepLearning/blob/master/%5B%EC%8B%A4%EC%8A%B5%5D/%5B%EC%8B%A4%EC%8A%B505%5D%ED%95%A9%EC%84%B1%EA%B3%B1_%EC%8B%A0%EA%B2%BD%EB%A7%9D.ipynb)
 
+* ### [실습05] 합성곱 신경망 (2)
+
 <br>
 
 ## 실습 Zero
