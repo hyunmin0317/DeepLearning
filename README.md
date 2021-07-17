@@ -27,4 +27,4 @@
 ### [3. 파이토치 기초](https://github.com/hyunmin0317/DeepLearning/blob/master/%EC%8B%A4%EC%8A%B5Zero/practice03.ipynb)
 
 ### [4. MNIST 데이터로드](https://github.com/hyunmin0317/DeepLearning/blob/master/%EC%8B%A4%EC%8A%B5Zero/practice04.ipynb)
-
+ 
